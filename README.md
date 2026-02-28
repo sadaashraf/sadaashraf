@@ -1,11 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding-gif"/></p>
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">
-My name is Muhammad Ashraf and I'm a MERN Stack Developer
-</p>
+<h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
+<h3 align="center">A passionate MERN-Stack Developer from Pakistan</h3>
 
 ###
 
