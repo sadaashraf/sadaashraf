@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding-gif"/></p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
