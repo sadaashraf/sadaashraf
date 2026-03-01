@@ -14,7 +14,7 @@
 💻 Currently working with React.js, Node.js & NestJS  
 🌱 Continuously learning Backend Development & APIs  
 🔐 Interested in Authentication, JWT & Database Design  
-🎯 Goal: To become a professional MERN Stack Developer  
+🎯 Goal: To become a professional Full Stackk Developer  
 
 I enjoy building real-world applications and solving coding problems.  
 Always excited to learn new technologies and improve my development skills.
