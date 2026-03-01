@@ -46,17 +46,16 @@ Always focused on writing clean, scalable, and maintainable code.
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NayeemAshraf&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaashraf&layout=compact&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=sadaashraf&theme=dracula" height="150"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 🌍 Portfolio: (Add your portfolio link)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-ashraf-198863324
+- 📧 Email: nayeemashraf92@gmail.com
 
 ---
 
