@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
-<h3 align="center">Full Stack (MERN) Developer | React • Node • NestJS</h3>
+<h3 align="center">Full Stack (MERN) Developer | React • Node • NestJS</h3><img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
 
 ---
 
