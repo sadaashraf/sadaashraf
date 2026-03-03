@@ -46,7 +46,7 @@ Always focused on writing clean, scalable, and maintainable code.
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaashraf&layout=compact&theme=dracula" />
+
   <img src="https://streak-stats.demolab.com?user=sadaashraf&theme=dracula" height="150"/>
 </p>
 
