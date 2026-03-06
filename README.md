@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
 <h3 align="center">Full Stack (MERN) Developer | React • Node • NestJS</h3>
 
-## 🚀 About Me <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
+## 🚀 About Me 
 
 - 💻 MERN Stack Developer from Pakistan  
 - 🔭 Currently working with **React.js, Node.js & NestJS**  
@@ -41,7 +41,7 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
 
 <p>
 
