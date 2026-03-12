@@ -7,7 +7,7 @@
 
 ##
 
-## 🚀 About Me<img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'> 
+## 🚀 About Me
 - 💻 MERN Stack Developer from Pakistan  
 - 🔭 Currently working with **React.js, Node.js & NestJS**  
 - 🌱 Learning advanced Backend Architecture & Scalable APIs  
@@ -19,8 +19,7 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-## 🛠 Tech Stack <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
-
+## 🛠 Tech Stack 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
@@ -43,15 +42,14 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-## 📊 GitHub Stats <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
-
+## 📊 GitHub Stats 
 <p>
  <img src="https://streak-stats.demolab.com?user=sadaashraf&theme=dracula" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
+## 🌐 Connect With Me 
 
 - 💼 LinkedIn: www.linkedin.com/in/muhammad-ashraf-198863324
 - 📧 Email: nayeemashraf92@gmail.com
@@ -59,4 +57,4 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-⭐ *Always open to collaboration and learning opportunities*
+⭐ *Always open to collaboration and learning opportunities <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>*
