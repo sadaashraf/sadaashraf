@@ -46,8 +46,7 @@ Always focused on writing clean, scalable, and maintainable code.
 ## 📊 GitHub Stats <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
 
 <p>
-
-  <img src="https://streak-stats.demolab.com?user=sadaashraf&theme=dracula" height="150"/>
+ <img src="https://streak-stats.demolab.com?user=sadaashraf&theme=dracula" height="150"/>
 </p>
 
 ---
