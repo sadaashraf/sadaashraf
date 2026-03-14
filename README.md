@@ -7,7 +7,7 @@
 
 ##
 
-## 🚀 About Me
+## 🚀 About Me <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>
 - 💻 MERN Stack Developer from Pakistan  
 - 🔭 Currently working with **React.js, Node.js & NestJS**  
 - 🌱 Learning advanced Backend Architecture & Scalable APIs  
@@ -57,4 +57,4 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-⭐ *Always open to collaboration and learning opportunities <img src='https://github.githubassets.com/images/mona-loading-default.gif' alt='github' height='40'>*
+⭐*Always open to collaboration and learning opportunities*⭐
