@@ -57,4 +57,4 @@ Always focused on writing clean, scalable, and maintainable code.
 
 ---
 
-⭐*Always open to collaboration and learning opportunities*⭐
+⭐*Always open to collaboration and learning opportunities*
