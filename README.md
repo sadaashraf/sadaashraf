@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 💻 MERN Stack Developer from Pakistan  
-- 🔭 Currently working with **React.js, Node.js & Nest.js**  
+- 🔭 Currently working with **React.js, Node.js & Express.js & Nest.js**  
 - 🌱 Learning advanced Backend Architecture & Scalable APIs  
 - 🔐 Interested in Authentication, JWT & Secure Systems  
 - 🎯 Goal: Become a Professional Full Stack Engineer  
